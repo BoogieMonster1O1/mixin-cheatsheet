@@ -1,5 +1,5 @@
 # Please refer to [the upstream version](https://github.com/2xsaiko/mixincs-updated)
-# All new docs will there
+# All new docs will be there
 
 ## Mixin Cheatsheet
 
